@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Moboom/static/css/main.0e1c7165.css",
+    "main.js": "/Moboom/static/js/main.246b2813.js",
+    "index.html": "/Moboom/index.html",
+    "main.0e1c7165.css.map": "/Moboom/static/css/main.0e1c7165.css.map",
+    "main.246b2813.js.map": "/Moboom/static/js/main.246b2813.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e1c7165.css",
+    "static/js/main.246b2813.js"
+  ]
+}
